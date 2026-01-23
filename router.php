@@ -1,5 +1,7 @@
 <?php
 
+chdir(__DIR__); // in case this file is included from a file in another dir
+
 // can target just php local server if needed
 // if (php_sapi_name() == 'cli-server') {
 /* route static assets and return false */
