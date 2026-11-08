@@ -12,7 +12,7 @@ return function () {
       <div class="container">
         <h3>Available Terms &amp; Privacy Statements</h3>
         <ul>
-          <li><a href="/assistant/terms-and-privacy">Assistant</a>: BTEK's personal assistant tools that connect to
+          <li><a href="/assistant">BTEK Assistant</a> (<a href="/assistant/terms-and-privacy">terms &amp; privacy</a>): BTEK's personal assistant tools that connect to
             Google accounts</li>
         </ul>
       </div>
