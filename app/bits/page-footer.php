@@ -27,6 +27,14 @@ function pageFooter()
         [
           'name' => 'Contact',
           'link' => '/contact'
+        ],
+        [
+          'name' => 'Privacy',
+          'link' => '/privacy'
+        ],
+        [
+          'name' => 'Terms',
+          'link' => '/terms'
         ]
       ]
     ],
