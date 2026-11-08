@@ -29,12 +29,8 @@ function pageFooter()
           'link' => '/contact'
         ],
         [
-          'name' => 'Privacy',
-          'link' => '/privacy'
-        ],
-        [
-          'name' => 'Terms',
-          'link' => '/terms'
+          'name' => 'Terms & Privacy',
+          'link' => '/terms-and-privacy'
         ]
       ]
     ],
